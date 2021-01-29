@@ -44,8 +44,10 @@
                 "hidden": false,
                 "name": "PowerShell",
                 "useAcrylic":true,
-                "acrylicOpacity": 0.1,
-                "source": "Windows.Terminal.PowershellCore"
+                "acrylicOpacity": 0.5,
+                "source": "Windows.Terminal.PowershellCore",
+                "startingDirectory": "D:\\dev",
+                "fontFace": "MesloLGS NF"
             },
             {
                 // Make changes here to the powershell.exe profile.
